@@ -1,6 +1,8 @@
 # Nauticulos_WIP
 A memory building puzzle game
 
+Try the DEMO version of the game on itch https://jackalldigital.itch.io/nauticulos-demo
+
 The goal of the game is to give as few input commands as possible to the diver (Nauticulos) get to the treasure chest,
 while also picking up the key and avoiding the various obstacles.
 
